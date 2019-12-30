@@ -1,0 +1,19 @@
+#container {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  padding: 20px 0;
+}
+
+p > a {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+#error {
+  color: red;
+  display: none;
+}
